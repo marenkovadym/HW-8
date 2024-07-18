@@ -1,0 +1,49 @@
+.text-box h3:first-child {
+color: pink;
+}
+
+#greycol {
+    color: grey;
+}
+
+.text-box div:nth-child(5) p {
+    color: red;
+}
+
+.text-box p:nth-child(7) {
+    color: green;
+}
+
+.yellow {
+    color: yellow;
+}
+
+
+.lessons ul li:nth-child(2) {
+    color: lightcoral;
+}
+
+.lessons ul li:nth-child(3) {
+    color: lightseagreen;
+}
+
+.lessons ul li:nth-child(4) {
+    color: royalblue;
+}
+
+.lessons ul li:nth-child(5) {
+    color: limegreen;
+}
+
+.lessons ul li:nth-child(6) {
+    color: rosybrown;
+}
+
+.lessons ul li:last-child {
+    color: violet
+}
+
+.lessons ul li:hover {
+    color: burlywood;
+}
+
