@@ -43,7 +43,16 @@ color: pink;
     color: violet
 }
 
-.lessons ul li:hover {
-    color: burlywood;
+.lessons ul li {
+    transition: all .4s ease-in;
+    cursor: pointer;
 }
 
+.lessons ul li:hover {
+    color: black;
+}
+
+.lessons ul {
+    font-size: 22px;
+    list-style: none;
+}
